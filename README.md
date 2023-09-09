@@ -9,7 +9,8 @@
 
 ## About This Project
 A complete online grocery store where admins can insert, edit and delete products from the backend, including managing all the orders from the customers. Users can explore the items, add them to the cart, search products and submit feedback. In addition, after logging in, users can confirm orders and pay for the products using PayPal. Finally, users will get an email notification after payment. <br>
-The database file "ecomtest2.sql" is added.
+<br>
+<b>The database file "ecomtest2.sql" is added.</b>
 
 ## About Laravel
 
